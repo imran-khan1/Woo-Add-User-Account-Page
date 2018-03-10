@@ -1,2 +1,2 @@
 # Ik-WC
-woocommerce customizations
+Add New Tab & Page to WooCommerce User Account Area
